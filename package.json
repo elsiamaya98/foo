@@ -1,0 +1,16 @@
+{
+  "name": "elsi-amaya",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": ".mongorc.js",
+  "dependencies": {
+    "coffii-admin": "^0.1.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "Elsi Amaya",
+  "license": "ISC"
+}
